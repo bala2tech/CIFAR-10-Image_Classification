@@ -1,5 +1,4 @@
-# CIFAR-10-Image_Classification
-AI_ENGINEER_CIFAR-10_IMAGE_CLASSIFICATION
+
 # CIFAR-10 Image Classification using PyTorch
 
 **Deep Learning | Computer Vision | CNN | Residual Learning | Hyperparameter Optimization**

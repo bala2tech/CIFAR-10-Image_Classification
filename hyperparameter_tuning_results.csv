@@ -1,0 +1,6 @@
+Experiment,Learning Rate,Batch Size,Optimizer,Dropout,Validation Accuracy (%)
+baseline_setting,0.001,64,Adam,0.25,69.42
+lower_learning_rate,0.0005,64,Adam,0.25,68.86
+higher_dropout,0.001,64,Adam,0.4,65.26
+larger_batch_size,0.001,128,Adam,0.25,65.24
+sgd_optimizer,0.001,64,SGD,0.25,55.82

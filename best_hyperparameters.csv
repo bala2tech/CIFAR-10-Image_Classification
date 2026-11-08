@@ -1,0 +1,2 @@
+learning_rate,batch_size,optimizer,dropout_rate
+0.001,64,Adam,0.25

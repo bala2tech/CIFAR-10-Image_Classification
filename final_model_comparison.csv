@@ -1,0 +1,5 @@
+Rank,Model / Approach,Test Accuracy (%)
+1,Residual CNN,85.59
+2,Callback-Enabled CNN,85.56
+3,Baseline CNN,81.82
+4,Hyperparameter-Tuned CNN,81.66
